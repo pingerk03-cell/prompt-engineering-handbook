@@ -1,0 +1,12 @@
+{
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "files.autoSave": "afterDelay",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "markdown.preview.breaks": true,
+  "markdown.extension.toc.updateOnSave": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.renderWhitespace": "selection"
+}
